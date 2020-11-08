@@ -1,1 +1,0 @@
-A basic template for visualising data
